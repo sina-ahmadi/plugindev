@@ -1,0 +1,71 @@
+
+form#loginform {
+    background: right;
+}
+
+body {
+    color: dodgerblue;
+}
+
+form#loginform {
+    border-color: dodgerblue;
+}
+
+input#user_login {
+    border-radius: 1px;
+    border: 1px solid dodgerblue;
+    background: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+input#user_pass {
+    border-radius: 1px;
+    border: 1px solid dodgerblue;
+    background: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+select#language-switcher-locales {
+    border-radius: 1px;
+    border: 1px solid dodgerblue;
+    background: black;
+    color: white;
+    font-size: 15px;
+}
+
+input#rememberme {
+    border-radius: 1px;
+    border: 1px solid dodgerblue;
+    background: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+
+
+input#wp-submit {
+    border-radius: 1px;
+    border: 1px solid dodgerblue;
+    background: black;
+    color: white;
+    margin-top: 5px;
+}
+
+input.button {
+    background: black!important;
+    color: white !important;
+}
+
+a {
+    color: #ffffff !important;
+}
+
+label {
+    color: white;
+}
+
